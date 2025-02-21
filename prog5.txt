@@ -1,4 +1,4 @@
-Add script to available game object, ensure speed 20, 10
+Add script named Prog5 to available game object, ensure speed 20, 10
 Create 2d object, sprites, circle and add component BoxColloider 2d
 Run in scene
 
