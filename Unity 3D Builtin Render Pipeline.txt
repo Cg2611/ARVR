@@ -1,3 +1,0 @@
-Unity 3D Builtin Render Pipeline
-
-Edit, Project Settings, Player, Input Enabler, select both
